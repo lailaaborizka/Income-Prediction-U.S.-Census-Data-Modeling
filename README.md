@@ -14,7 +14,7 @@ This README will guide you through the project features, installation instructio
     <li><a href="#overview">Overview</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#Models Used">Models Used</a></li>
+    <li><a href="#Models-Used">Models-Used</a></li>
   </ol>
 </details>
 
@@ -79,7 +79,7 @@ Some of the core libraries include:
 - scikit-learn: Machine learning models and utilities.
 - matplotlib, seaborn: Data visualization.
 
-## Models Used
+## Models-Used
 
 This project employs a variety of machine learning models, including:
 
