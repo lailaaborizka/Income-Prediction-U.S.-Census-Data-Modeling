@@ -14,7 +14,7 @@ This README will guide you through the project features, installation instructio
     <li><a href="#overview">Overview</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#Models">Models</a></li>
+    <li><a href="#Models Used">Models Used</a></li>
   </ol>
 </details>
 
